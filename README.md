@@ -17,7 +17,7 @@ python3 keyGenerator.py
 
 # How to run
 
-Run this command to execute blockchain system with 9 processes. This will create 1 dispatcher node, 3 validator and simple nodes, 1 logger node and 1 transaction server node.
+Run this command to execute blockchain system with 9 processes. This will create 1 dispatcher node, 3 validator and 3 simple nodes, 1 logger node and 1 transaction server node.
 
 ```
 mpiexec -n 9 python3 main.py
