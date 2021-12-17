@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  padding: 1rem;
+}
+
+.ant-popover-content {
+  max-width: 500px;
+}
